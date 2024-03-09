@@ -9,6 +9,6 @@ An Android app built with Java in Android Studio for converting between Egyptian
 
 ## How to Use
 
-1. Clone or download the repository:
+- Clone or download the repository:
   
    git clone https://github.com/jokx-k/Currency-Converter-EGP-USD-.git
